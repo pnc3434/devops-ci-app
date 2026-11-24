@@ -1,4 +1,5 @@
-﻿name: CI - verify and publish image
+﻿# New run with permissions
+name: CI - verify and publish image
 
 on:
   push:
